@@ -6,6 +6,7 @@ repo: uptime # Your Github repository name
 sites:
   - name: FASTRACK TOP10
     url: https://www.top10.co.nz
+    maxResponseTime: 10000
   - name: Wikipedia
     url: https://en.wikipedia.org
 #  - name: Secret Site
