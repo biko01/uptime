@@ -4,18 +4,20 @@
     "url": "https://www.top10.co.nz",
     "icon": "https://favicons.githubusercontent.com/www.top10.co.nz",
     "slug": "fastrack-top-10",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3732,
-    "timeDay": 2460,
-    "timeWeek": 3732,
-    "timeMonth": 3732,
-    "timeYear": 3732,
-    "dailyMinutesDown": {}
+    "time": 4460,
+    "timeDay": 7104,
+    "timeWeek": 4460,
+    "timeMonth": 4460,
+    "timeYear": 4460,
+    "dailyMinutesDown": {
+      "2020-12-30": 0
+    }
   },
   {
     "name": "Wikipedia",
