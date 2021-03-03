@@ -1,7 +1,7 @@
 url: https://www.top10.co.nz
-status: up
-code: 200
-responseTime: 2691
-lastUpdated: 2021-03-02T23:11:04.421Z
+status: down
+code: 500
+responseTime: 2813
+lastUpdated: 2021-03-03T04:37:07.397Z
 startTime: Mon Dec 28 2020 01:43:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
