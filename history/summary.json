@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 3352,
-    "timeDay": 3172,
-    "timeWeek": 3605,
-    "timeMonth": 3047,
-    "timeYear": 3352,
+    "time": 3342,
+    "timeDay": 2267,
+    "timeWeek": 3598,
+    "timeMonth": 3023,
+    "timeYear": 3342,
     "dailyMinutesDown": {
       "2021-01-15": 104,
       "2021-01-02": 77,
@@ -28,16 +28,21 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 182,
-    "timeDay": 19,
+    "timeDay": 166,
     "timeWeek": 241,
-    "timeMonth": 217,
+    "timeMonth": 216,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-15": 104,
+      "2021-01-02": 77,
+      "2021-01-01": 1,
+      "2020-12-30": 39
+    }
   }
 ]
