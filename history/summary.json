@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.top10.co.nz",
     "slug": "fastrack-top-10",
     "status": "down",
-    "uptime": "58.16%",
+    "uptime": "58.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.16%",
+    "uptimeYear": "58.11%",
     "time": 3177,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3177,
     "dailyMinutesDown": {
-      "2021-08-17": 42,
+      "2021-08-17": 300,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
       "2021-08-14": 1440,
@@ -125,9 +125,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -136,6 +136,8 @@
     "timeWeek": 240,
     "timeMonth": 205,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-17": 0
+    }
   }
 ]
