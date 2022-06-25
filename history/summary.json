@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.top10.co.nz",
     "slug": "fastrack-top-10",
     "status": "down",
-    "uptime": "24.84%",
+    "uptime": "24.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2948,
+    "time": 2947,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-24": 77,
+      "2022-06-25": 80,
+      "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
       "2022-06-21": 1440,
@@ -379,8 +380,7 @@
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
-      "2021-06-26": 1440,
-      "2021-06-25": 1440
+      "2021-06-26": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 204,
-    "timeDay": 197,
-    "timeWeek": 172,
-    "timeMonth": 193,
+    "timeDay": 217,
+    "timeWeek": 199,
+    "timeMonth": 199,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2022-03-05": 15,
