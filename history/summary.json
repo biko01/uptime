@@ -6,17 +6,18 @@
     "slug": "fastrack-top-10",
     "status": "down",
     "uptime": "30.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "73.21%",
+    "uptimeWeek": "96.17%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "48.13%",
     "time": 2607,
-    "timeDay": 2436,
-    "timeWeek": 2413,
-    "timeMonth": 2700,
+    "timeDay": 0,
+    "timeWeek": 2470,
+    "timeMonth": 2705,
     "timeYear": 2607,
     "dailyMinutesDown": {
-      "2023-09-28": 0,
+      "2023-09-29": 12,
+      "2023-09-28": 374,
       "2023-04-06": 85,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
@@ -205,8 +206,7 @@
       "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
-      "2022-09-30": 1440,
-      "2022-09-29": 1440
+      "2022-09-30": 1440
     }
   },
   {
@@ -221,9 +221,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 228,
-    "timeWeek": 205,
-    "timeMonth": 226,
+    "timeDay": 138,
+    "timeWeek": 210,
+    "timeMonth": 225,
     "timeYear": 199,
     "dailyMinutesDown": {}
   }
