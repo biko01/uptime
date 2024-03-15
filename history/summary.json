@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.top10.co.nz.ico",
     "slug": "fastrack-top-10",
     "status": "up",
-    "uptime": "40.75%",
+    "uptime": "40.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.60%",
-    "time": 2848,
-    "timeDay": 2445,
-    "timeWeek": 3041,
-    "timeMonth": 3291,
-    "timeYear": 2848,
+    "uptimeYear": "93.88%",
+    "time": 2850,
+    "timeDay": 3402,
+    "timeWeek": 3038,
+    "timeMonth": 3290,
+    "timeYear": 2850,
     "dailyMinutesDown": {
       "2023-12-27": 20,
       "2023-09-29": 42,
@@ -39,8 +39,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -54,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 659,
-    "timeWeek": 278,
-    "timeMonth": 255,
-    "timeYear": 208,
+    "time": 207,
+    "timeDay": 845,
+    "timeWeek": 373,
+    "timeMonth": 278,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   }
 ]
