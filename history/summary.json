@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.top10.co.nz.ico",
     "slug": "fastrack-top-10",
     "status": "up",
-    "uptime": "46.12%",
+    "uptime": "46.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -28,7 +28,7 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,8 @@
     "timeWeek": 255,
     "timeMonth": 247,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   }
 ]
