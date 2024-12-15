@@ -4,8 +4,8 @@
     "url": "https://www.top10.co.nz",
     "icon": "https://icons.duckduckgo.com/ip3/www.top10.co.nz.ico",
     "slug": "fastrack-top-10",
-    "status": "up",
-    "uptime": "52.03%",
+    "status": "down",
+    "uptime": "52.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2839,
     "timeYear": 3002,
     "dailyMinutesDown": {
+      "2024-12-15": 0,
       "2024-11-03": 38,
       "2024-10-10": 31,
       "2024-09-02": 24,
