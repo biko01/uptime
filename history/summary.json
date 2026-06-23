@@ -4,13 +4,13 @@
     "url": "https://www.top10.co.nz",
     "icon": "https://icons.duckduckgo.com/ip3/www.top10.co.nz.ico",
     "slug": "fastrack-top-10",
-    "status": "up",
+    "status": "down",
     "uptime": "64.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "97.38%",
-    "time": 2894,
+    "time": 2893,
     "timeDay": 2709,
     "timeWeek": 2565,
     "timeMonth": 2646,
@@ -36,7 +36,8 @@
       "2026-06-08": 43,
       "2026-06-09": 30,
       "2026-06-14": 35,
-      "2026-06-20": 49
+      "2026-06-20": 49,
+      "2026-06-23": 0
     }
   },
   {
