@@ -6,10 +6,10 @@
     "slug": "fastrack-top-10",
     "status": "down",
     "uptime": "64.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "97.36%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "97.35%",
     "time": 2892,
     "timeDay": 3632,
     "timeWeek": 2812,
@@ -37,7 +37,8 @@
       "2026-06-09": 30,
       "2026-06-14": 35,
       "2026-06-20": 49,
-      "2026-06-23": 88
+      "2026-06-23": 88,
+      "2026-06-26": 39
     }
   },
   {
